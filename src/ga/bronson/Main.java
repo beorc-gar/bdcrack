@@ -1,4 +1,4 @@
-package ga.bronson;
+package pw.graansma;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
